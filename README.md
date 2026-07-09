@@ -75,7 +75,12 @@ To answer this question, the following business questions were explored:
 - Original Dataset
 
 ---
+## What I Learned
 
+Through this project, I strengthened my skills in exploratory data analysis using Microsoft Excel. I gained experience creating PivotTables, selecting appropriate visualizations, interpreting trends, and documenting limitations within a real-world dataset. During the analysis, I identified an unreliable price variable and adjusted the project's business questions to ensure the conclusions were supported by the available data. This project reinforced the importance of validating data before drawing business insights.
+
+
+---
 ## Author
 
 Adela Ramos
