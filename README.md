@@ -16,6 +16,16 @@ The analysis was completed in Microsoft Excel using exploratory data analysis te
 The primary objective of this project was to answer the following question:
 
 > How did digital camera specifications evolve between 1994 and 2007, and how did manufacturers differ during this period?
+> 
+### Example Visualization
+
+The chart below illustrates one of the key analyses completed during this project.
+
+![Average Effective Megapixels by Release Year]
+<img width="598" height="368" alt="Screenshot 2026-07-09 at 4 45 11 PM" src="https://github.com/user-attachments/assets/dc9e3139-55f6-46e9-a085-cb90658e369c" />
+
+
+This visualization demonstrates the steady increase in average effective megapixels between 1994 and 2007, highlighting the rapid advancement of digital camera technology during the study period.
 
 To answer this question, the following business questions were explored:
 
