@@ -2,8 +2,9 @@
 
 ## Project Overview
 
-This project analyzes historical digital camera specifications between 1994 and 2007 using the 1000 Cameras Dataset [camera_dataset.csv](https://github.com/user-attachments/files/29865875/camera_dataset.csv)
-[camera_dataset.csv](https://github.com/user-attachments/files/29865870/camera_dataset.csv)
+This project analyzes historical digital camera specifications between 1994 and 2007 using the **1000 Cameras Dataset** from Kaggle.
+
+The original dataset (`camera_dataset.csv`) is included in this repository.
 from Kaggle. The objective was to explore how digital camera technology evolved over time and compare manufacturers based on camera resolution and weight.
 
 The analysis was completed in Microsoft Excel using exploratory data analysis techniques, including PivotTables, scatter plots, line charts, and bar charts.
